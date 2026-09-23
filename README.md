@@ -124,4 +124,3 @@ every table above in seconds without retraining.
 | `src/train.py` | Probe / LoRA / full training, best-epoch selection, logit dumps |
 | `src/evaluate.py` | Accuracy with bootstrap CIs, ECE before/after temperature scaling, abstention curves, paired gaps |
 | `tests/` | LoRA starts exactly at the pretrained model, trains only A and B, scales correctly; ECE, temperature recovery, abstention and paired-gap checks; data split budget |
-# abstain-or-route
