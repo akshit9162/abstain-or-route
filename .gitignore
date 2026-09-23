@@ -1,0 +1,11 @@
+.venv/
+data/
+models/
+__pycache__/
+.pytest_cache/
+.DS_Store
+*.log
+# superseded by run.sh
+run_all.sh
+run_rest.sh
+run_mvp.sh
