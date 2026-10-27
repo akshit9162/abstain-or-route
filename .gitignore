@@ -9,3 +9,5 @@ __pycache__/
 run_all.sh
 run_rest.sh
 run_mvp.sh
+.impeccable/
+.hallmark/
